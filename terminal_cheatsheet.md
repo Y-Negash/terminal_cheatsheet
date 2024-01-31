@@ -24,7 +24,7 @@ Look back to this in the future!! ⚓️ ⏭️ This is also in no particular or
 
 9.  q - *allows you to quit out of git log and other places* 
 
-10. `:wq` - *allows you to leave our of vim??*
+10. `:wq` - *allows you to leave out of vim??*
 
 11.  `pwd` - *allows you to see where you are in the directory path* 
 
